@@ -18,7 +18,7 @@ const chainId = '0x4';
 const isDebug = true;
 
 const App = () => {
-  const { account, connectWallet, walletIsLoading, walletError } = useWallet({
+  const { account, connectWallet, walletIsLoading } = useWallet({
     chainId,
     isDebug,
   });
@@ -30,7 +30,6 @@ const App = () => {
     attackBoss,
     attackState,
     contractIsLoading,
-    contractError,
   } = useContract({
     account,
     contractAddress,
