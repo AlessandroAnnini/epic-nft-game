@@ -10,3 +10,6 @@
 [What difference between if and require in solidity](https://ethereum.stackexchange.com/questions/60585/what-difference-between-if-and-require-in-solidity)
 [Etherscan dropped my transaction why](https://www.reddit.com/r/ethereum/comments/m4mmy9/etherscan_dropped_my_transaction_why/)
 [I see no way to obtain the return value of a non-view function (ethers.js)](https://ethereum.stackexchange.com/questions/88119/i-see-no-way-to-obtain-the-return-value-of-a-non-view-function-ethers-js/88122#88122)
+[How to Use IPFS: The Backbone of Web3](https://decrypt.co/resources/how-to-use-ipfs-the-backbone-of-web3)
+[Pin files using IPFS](https://app.buildspace.so/projects/CO5cc2751b-e878-41c4-99fa-a614dc910ee9/lessons/LEfece0c31-8127-4e74-bf00-4479c793b71b)
+[Getting A Random Number with Chainlink VRF](https://www.youtube.com/watch?v=JqZWariqh5s)
